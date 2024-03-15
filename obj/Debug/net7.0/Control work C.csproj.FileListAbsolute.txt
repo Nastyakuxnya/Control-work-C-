@@ -1,0 +1,14 @@
+C:\Users\nasty\OneDrive\Рабочий стол\Разработчик основной блок\Control work C\bin\Debug\net7.0\Control work C.exe
+C:\Users\nasty\OneDrive\Рабочий стол\Разработчик основной блок\Control work C\bin\Debug\net7.0\Control work C.deps.json
+C:\Users\nasty\OneDrive\Рабочий стол\Разработчик основной блок\Control work C\bin\Debug\net7.0\Control work C.runtimeconfig.json
+C:\Users\nasty\OneDrive\Рабочий стол\Разработчик основной блок\Control work C\bin\Debug\net7.0\Control work C.dll
+C:\Users\nasty\OneDrive\Рабочий стол\Разработчик основной блок\Control work C\bin\Debug\net7.0\Control work C.pdb
+C:\Users\nasty\OneDrive\Рабочий стол\Разработчик основной блок\Control work C\obj\Debug\net7.0\Control work C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasty\OneDrive\Рабочий стол\Разработчик основной блок\Control work C\obj\Debug\net7.0\Control work C.AssemblyInfoInputs.cache
+C:\Users\nasty\OneDrive\Рабочий стол\Разработчик основной блок\Control work C\obj\Debug\net7.0\Control work C.AssemblyInfo.cs
+C:\Users\nasty\OneDrive\Рабочий стол\Разработчик основной блок\Control work C\obj\Debug\net7.0\Control work C.csproj.CoreCompileInputs.cache
+C:\Users\nasty\OneDrive\Рабочий стол\Разработчик основной блок\Control work C\obj\Debug\net7.0\Control work C.dll
+C:\Users\nasty\OneDrive\Рабочий стол\Разработчик основной блок\Control work C\obj\Debug\net7.0\refint\Control work C.dll
+C:\Users\nasty\OneDrive\Рабочий стол\Разработчик основной блок\Control work C\obj\Debug\net7.0\Control work C.pdb
+C:\Users\nasty\OneDrive\Рабочий стол\Разработчик основной блок\Control work C\obj\Debug\net7.0\Control work C.genruntimeconfig.cache
+C:\Users\nasty\OneDrive\Рабочий стол\Разработчик основной блок\Control work C\obj\Debug\net7.0\ref\Control work C.dll
